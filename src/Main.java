@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        StopgninnipSMysdroW StopgninnipSMysdroW = new StopgninnipSMysdroW();
+
+        System.out.print(StopgninnipSMysdroW.spinWords("This, is, a, test"));
     }
 }
